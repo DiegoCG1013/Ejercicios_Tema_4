@@ -1,4 +1,4 @@
-# Ejercicios_Tema_4+
+# Ejercicios_Tema_4
 
 # Repositorio: https://github.com/DiegoCG1013/Ejercicios_Tema_4.git
 
